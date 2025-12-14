@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Finance AI</string>
+
+    <!-- Main Activity -->
+    <string name="total_balance">Total Balance</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="scan_receipt">Scan Receipt</string>
+    <string name="add_voice_expense">Voice Add</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="view_all">View All</string>
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="budget">Budget</string>
+    <string name="spent">Spent</string>
+    <string name="left">Left</string>
+
+    <!-- Add Expense -->
+    <string name="add_expense">Add Expense</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="enter_description">Enter description</string>
+
+    <!-- Categories -->
+    <string name="food">Food</string>
+    <string name="transport">Transport</string>
+    <string name="shopping">Shopping</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="bills">Bills</string>
+    <string name="groceries">Groceries</string>
+    <string name="other">Other</string>
+
+    <!-- Messages -->
+    <string name="expense_saved">Expense saved successfully!</string>
+    <string name="expense_deleted">Expense deleted!</string>
+    <string name="no_expenses">No expenses yet. Add your first expense!</string>
+    <string name="camera_permission_required">Camera permission is required to scan receipts</string>
+    <string name="microphone_permission_required">Microphone permission is required for voice input</string>
+    <string name="scanning_receipt">Scanning receipt…</string>
+    <string name="speak_now">Speak now…</string>
+
+    <!-- Errors -->
+    <string name="error_amount">Please enter a valid amount</string>
+    <string name="error_description">Please enter a description</string>
+    <string name="error_category">Please select a category</string>
+    <string name="error_scanning">Failed to scan receipt. Please try again.</string>
+</resources>
